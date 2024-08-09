@@ -17,7 +17,9 @@ The repository consists of the following scripts:
 
 
 Resources:
-MethylKit tutorial: https://www.bioconductor.org/packages/release/bioc/vignettes/methylKit/inst/doc/methylKit.html
+
+[MethylKit tutorial](https://www.bioconductor.org/packages/release/bioc/vignettes/methylKit/inst/doc/methylKit.html)
+
 
 
 
