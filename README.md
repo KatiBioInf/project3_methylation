@@ -16,7 +16,8 @@ The repository consists of the following scripts:
 04_visualization_heatmap.R
 
 Heatmap result with three clusters:
-![heatmap_with_3_clusters](https://github.com/user-attachments/assets/02fa7442-5875-47bd-825f-d01df4eb372c)
+![heatmap](https://github.com/user-attachments/assets/26ea83bb-4c2f-4e28-91f8-94ffc6e7c5f8)
+
 
 
 
